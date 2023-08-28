@@ -1,3 +1,3 @@
 # MySubmission
 
-These are the files for submision in the IBM Data Analyst Capstone Project.
+These are the files for submision to the IBM Data Analyst Capstone Project (Coursera course).
